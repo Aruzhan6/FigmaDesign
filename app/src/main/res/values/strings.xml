@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Page2</string>
+    <string name="personaldata_text">Личные данные</string>
+    <string name="name_text">Имя</string>
+    <string name="surname_text">Фамилия</string>
+    <string name="email_text">E-mail</string>
+    <string name="datebirth_text">Дата рождения</string>
+    <string name="preferences_text">Мои предпочтения</string>
+    <string name="news_text">Получать новости</string>
+    <string name="advertising_text">Узнай первым о скидках и акциях</string>
+    <string name="add_text">Добавить</string>
+    <string name="number_text">Номер</string>
+</resources>
